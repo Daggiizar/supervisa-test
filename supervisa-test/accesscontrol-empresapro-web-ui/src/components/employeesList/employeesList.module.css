@@ -1,0 +1,39 @@
+.employeeList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.employeeItem {
+  background-color: #161621;
+  border-radius: 8px;
+  color: #fff;
+  padding: 16px;
+  position: relative;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.employeeItem:hover {
+  transform: translateY(-2px);
+}
+
+.employeeItem h2 {
+  margin-top: 0;
+}
+
+.employeeItem p {
+  margin-bottom: 8px;
+}
+.button {
+  background-color: #DDD92A;
+  border-radius: 8px;
+  padding: 8px;
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  color: #161621;
+  cursor: pointer;
+  text-decoration: none;
+}

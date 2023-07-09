@@ -1,0 +1,19 @@
+.cardEmployee {
+  background-color: #161621;
+  border-radius: 8px;
+  color: #fff;
+  padding: 16px;
+  position: relative;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+  max-width: 250px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.warpButtons {
+  display: flex;
+  width: 100%;
+}

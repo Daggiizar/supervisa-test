@@ -1,0 +1,29 @@
+.sidebar {
+  background-color: #161621;
+  padding: 90px 20px 20px;
+  width: 200px;
+  height: calc(100% - 90px);
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 8;
+}
+
+.menuItem {
+  display: flex;
+  align-items: center;
+  color: #f4f4f4;
+  text-decoration: none;
+  .item {
+    color: #fff;
+    text-decoration: none;
+  }
+  .item:hover {
+    color: #DDD92A;
+  }
+}
+.activeItem {
+  background-color: #DDD92A;
+  color: #161621;
+  padding: 8px 30px;
+}

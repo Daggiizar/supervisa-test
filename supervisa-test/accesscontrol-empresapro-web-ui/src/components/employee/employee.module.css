@@ -1,0 +1,23 @@
+.wrapper {
+  background-color: #161621;
+  border-radius: 8px;
+  color: #fff;
+  padding: 16px;
+  position: relative;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.warpForm {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.warpForm label {
+  width: 50%;
+}
+
+.warpForm input {
+  margin: 8px 8px;
+}

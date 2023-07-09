@@ -1,0 +1,10 @@
+.wrapper {
+  background-color: #313149;
+  color: #fff;
+  left: 240px;
+  padding: 25px;
+  position: absolute;
+  top: 90px;
+  min-width: calc(100% - 290px);
+  min-height: calc(100% - 140px);
+}

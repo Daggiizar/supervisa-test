@@ -1,0 +1,41 @@
+.checkInsContainer {
+  margin-top: 20px;
+}
+
+.checkInsHeading {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.checkInsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  list-style-type: none;
+  padding: 0;
+}
+
+.checkInItem {
+  background-color: #161621;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: #fff;
+  margin-bottom: 16px;
+  padding: 16px;
+  position: relative;
+  transition: transform 0.2s ease-in-out;
+  width: 100%;
+}
+
+.checkInDetails {
+  display: flex;
+  justify-content: space-between;
+}
+
+.checkInInfo {
+  margin: 5px 10px;
+}
+
+.infoLabel {
+  font-weight: bold;
+}

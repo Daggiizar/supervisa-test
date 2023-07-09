@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "accesscontrol-empresapro",
+    "private_key_id": "1312c3d61dacba24d6f6fb1bdfd313c273d88acd",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDhmLJGxrRiCxgA\n5LOCC7TYQDH/JL7AX47S+TDDgJHiD1RKdkwMV4e2HyAQriKEmRRZsI5VamAo15Fl\nS7Hdyull0rfXl8J5e4xbl0yw6v7UcU0qQXr7+jdryk44dSnD9GOqlIn6Un0a9NEF\nSSfL2776e7fj9QHNTU3v00gqxeOkDM82/rkDqrWe5irrS2cJCULpZ0MdKx7f14cO\nPtHuAobCm4H1Ce27UsN9QiWfgQYAGZRbjpt9hTRaFDxcUVs/+fArv1NkcAASi86/\nvjF7Z+sMRNc3NM5SPT2iuTJj0Mh9Pan2WhNcar3jG16OwyzEGlI67YNHrpka9UC5\nlGmv1Eb9AgMBAAECggEAAl0UYFyMarl2HzFdfwPyBQVGb1646f8/CHgbW4EDbv9a\nTNIlvrxy8aS4NBpal92aW0DAktRYCKngEo5BpxWwKN7bT+BPFB+q+0Ai1XjIGXGG\n0HGF6eM0yCuDFb5YJQqfFuH7V7wn4KvJmwYeAohRrryFR4YMzzzYj47IgCUiFSqL\nbYAxTpW0vxUP7qXQs95ayshkjsUHBtux0odOZuGMtd7TWVPuyEA7DivCQIm9vu7n\n2y9v0sh3PEsFzijGdqAUgT0KcP4O7uqFIflbR7KZ7HzkRVD2VYwyjgAYP95GWWWu\nsawK5U58/cfmKpDIP+ngTxF0uBtUXVpyEgQ+8yu1wQKBgQDyXyT8zcgD9/UtqE6U\ntG7/Pbwa6Gj4lY3YD3kNLFznX0h7NEDN7mlc9AukvYenIAIH33sjYd7TqcXC9e0K\nriHP7X3DYXG9CgJP6HP49eEcrKFojNP3NZj5WSJrKLbdjNf/MwxX/AHCsT+RC66a\n8RlsyzysPcGlRSwlrZk2bg5azQKBgQDuSBQ0t90LuBheVwuSBCa2FCl86flNjEgB\nnOgyXfMNhZgwjgJlyl1oFLiq3j+Pf7E760YrzIBxjlmwtvHCPF1hvivas4d94e63\n1evVXKk2xGfegWGusJfkKJr9VtWTEq+W3uPFhCkU/UMqLIjk8ZAMb1Z9lij43jG2\npoVUfKv88QKBgHqecBQF998qHzxOHhNVhaJUFUp3skOxReW9Tjy/6PCVYBIUyYRl\nzaBdR1a9HFgM9XoOMjogVZ84EPklehshJbIQMMQcFHLTEYBj1ehqXM0o+S/vr30t\n/IqJ8cPNAVbs3ooZxXDt6eYZzlMPWfLBb19/It7xD3sRl9goD49d9p0xAoGAdQ1P\nb75KhfE/d0iHVIlZguRQpR5C64dX8ALmRafFOAVCh8ebAenxDKnxNW7MBnAR3n9r\nDyT8i8wD3z1fca05qkRDQsIicwJDxGb/3OYR8ed1puYj2C7Dzr7rtDut2vu46gJA\nHc0YaUkob1VFQkIwIwumjzbulaKBBVqz8Jb13eECgYAn4wd6jLijoT0F4trG9A1A\nYQGDRQ+tiaqXu46hLnXbeiENYuiRSmamTlQ99JiZYxIS4i7ZkL/KZsdzz/e6Krai\nZQ0hZxxoDmFoqiD2rQg/pITw6Ep+f+Sgvk7ddkXXo/pUWEDdfiejWtNKdef+WR2l\nCOgRHhcKtOWFivBE33PTrw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-xg2dg@accesscontrol-empresapro.iam.gserviceaccount.com",
+    "client_id": "109685595213598322353",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xg2dg%40accesscontrol-empresapro.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
